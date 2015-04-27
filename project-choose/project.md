@@ -1,19 +1,19 @@
 ## project choose
 
-1. 싸이그래머 
+1. 싸이그래머   
    (facebook)[https://www.facebook.com/groups/psygrammer/]
    (github)[http://psygrammer.github.io/]
    
 선택 배경 : 
 초심자를 배려하여 하여 초심자 강좌도 있으며 github을 이용해 강좌 내 과제도 확인 받을 수 있다. 
 
-2. R Korea 
+2. R Korea   
    (facebook)[https://www.facebook.com/groups/krstudy/]
    
 선택 배경 : 
 개인적으로 관심이 많은 분야이며 활동률이 가장 높아보이나 매우 어려워 보임
 
-3. CoronaSDK 로 앱만들기
+3. CoronaSDK 로 앱만들기  
    (facebook)[https://www.facebook.com/groups/coronasdk]
 
 선택 배경 : 
