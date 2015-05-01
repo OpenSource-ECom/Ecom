@@ -1,8 +1,8 @@
 ##project choose
 
 1. 싸이그래머   
-   (facebook)[https://www.facebook.com/groups/psygrammer/]
-   (github)[http://psygrammer.github.io/]
+   [facebook](https://www.facebook.com/groups/psygrammer/)
+   [github](http://psygrammer.github.io/)
    
 선택 배경 :   
 초심자를 배려하여 하여 초심자 강좌도 있으며 github을 이용해 강좌 내 과제도 확인 받을 수 있다. 
