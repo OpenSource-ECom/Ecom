@@ -4,7 +4,7 @@ https://github.com/twitter/twitter-korean-text
 
 twitter-korean-text의 목표는 빅데이터 등에서 간단한 한국어 처리를 통해 색인어를 추출하는 데에 있습니다. 완전한 수준의 형태소 분석을 지향하지는 않습니다.
 
-#좋은 거 같은데 언어를 스칼라를 써서 잘 모르겟습니다. ..... 활성화는 되어있습니다.
+#####좋은 거 같은데 언어를 스칼라를 써서 잘 모르겟습니다. ..... 활성화는 되어있습니다.
 
 ###2. pootle 
 https://github.com/translate/pootle
