@@ -1,0 +1,22 @@
+Non critical checks in Pootle editor are shown in red (by. dwaynebailey)
+
+We're only exposing critical errors in the overview. And exposing all checks in the editor. We only block submission on critical errors, we don't block on other error classes.
+
+However, we show all errors in Red.
+
+For non-critical errors we should choose a cooler colour from the UI so that translators will know what are the critical errors.
+
+
+>>>
+Pootle 편집기의 빨간색으로 표시되는 중요하지 않은 제안 (by. dwaynebailey)
+
+우리는 개요의 심각한 오류만을 노출하고있다. 그리고 편집기에서 모든 제안을 보여준다. 우리는 심각한 오류의 제출만 블록화하고, 다른 오류 클래스들은 블록화하지 않는다.
+
+그러나, 우리는 모든 에러를 빨간색으로 보여준다.
+
+번역자가 중요한 오류가 무엇인지 알 수 있도록 중요하지 않은 오류를 우리는 UI에서 시원한 색상을 선택해야한다.
+
+
+>>>
+SongHye :: "우리는 심각한 오류의 제출만 블록화하고, 다른 에러들은 블록화하지 않는다."에서 심각한 오류의 제출만 보여주고, 다른 오류 클래스들은 차단한다고 말하고 싶은 것 같다. 아마 only 뒤의 block은 show인듯...
+	색으로 구분하는 것은 좋은 제안이라고 생각한다!
