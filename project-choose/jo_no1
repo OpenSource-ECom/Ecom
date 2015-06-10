@@ -1,0 +1,104 @@
+Enter file contents here1. 또 다른 pootle 번역 프로젝트 참여
+
+http://teampl.mooo.com:50000/pootle/ko/dai/
+
+2. 버그
+
+See this unit, for example:
+
+https://translate.evernote.com/ja/kb_evernote/translate/articles/23260131.xml.po#unit=4723141
+
+The text area doesn't accommodate the translation in it entirety. Only the few first lines are visible. Looks like there are some locale-specific styles that are handled incorrectly by the texarea resizing plugin.
+
+This also applies to other languages like Korean and Chinese (and probably others).
+
+나라별 문자 특성 때문에 번역 후 텍스트 공간에서 글이 짤린다. 텍스트 공간 크기를 재 설정 해야 할 것 같다.
+
+적어도 한국어 중국어에서 발생.
+
+3. 메일 보냄
+
+보내는이: translate-pootle@lists.sourceforge.net
+
+Hi, pootle_developers!
+
+Hi. First of all, let me introduce myself. I am a korean.
+
+I use pootle to do translation. 
+
+really really thanks you.
+
+But I wish to add a few feature.
+
+It is difficult to see how much do I transtlate than others.
+
+"The more I practice in the sea, the more I feel confident
+
+The more people join pootle, the more pootle shine.
+
+So feeling a sence of achievement is important to people when they join project.
+
+for example
+
+1) Graph service about contribution ratio of translation.
+
+2) Monthly, daily contribution ratio of translation.
+
+Thanks for taking time out from your busy schedule.
+
+P.S. Sorry, I'm not good at English. please be tolerant and understanding.
+
+4. 개별 성과 및 역할
+
+1. pootle (   ) 번역 완료
+
+2. 파이썬에 대한 이해력 올름
+(파이썬으로 된 코드 보여주며)   
+버그를 찾으려고 계속 보다보니까 친숙해 졌다.
+
+3. 다양한 오픈소스 웹페이지에 대해 알게 됨
+
+4. 게임 번역 프로젝트에 참여 중
+
+(게임 사진 보여줌)
+게임에 대한 간략한 소개
+
+개인적으로 게임을 좋아하는데 아시다싶이 일본, 중국에 비해 우리나라 게임시장은 매우 작아서 
+게임이 출시 될 때 일본어, 중국어는 번역해줘도 한글화 번역되서 나오는 경우가 거의 없습니다.
+제작사 측에서도 일본어, 중국어는 해줘도 한국어는 안해주고 유저한글화를 권장하고 있습니다.
+
+(사진 보여줌)
+
+번역 커뮤니티에 가입했고 한글화 번역에 참여하고 있습니다. 5월에 시작된 프로젝트라
+
+아직 많은 번역이 필요한 상황입니다.
+
+5. 메일 보내기
+
+(앞서서 발표만 메일)
+
+후기
+
+우선 pootle 이라는 오픈소스 프로젝트를 사용하고 번역하면서 새로운 것을 많이 배운 것 같습니다.
+
+처음 번역을 시작해서 번역율이 26%일 때 솔직히 이거 완료 할 수 있을까? 하는 의문도 들고 다른 주제로 바꿀자고 할까 생각도 해봤습니다.
+
+그런데 1주가 지나고 2주가 지나고 저희가 번역한 것 보다 많은 양이 번역되는 것을 보면서 
+
+혼자서는 할 수 없을 것 같았던 일들이 모두가 함께 참여하면서 이루어져 나가는 것을 보면서 새삼 놀라웠습니다.
+
+또 쉬는 시간, 짜투리 시간을 이용해서 모두에게 도움이 되는 일을 할 수 있다는 것이 뿌뜻했습니다.
+
+이번 기회에 취미로 게임을 하는 것이 아니라 게임을 번역해서 남들에게 도움이 되는 일을 해볼 생각이다.
+
+이번 학기 오픈소스 수업을 들으면서 진짜 여러가지 생각을 해봤습니다.
+
+경제학 특히 신자유주의 미시경제를 주 전공으로 하는 입장에서 오픈소스라는 개념은 매우 생소하고 이상했습니다.
+
+아직도 약간 미심쩍고 의아한 부분이 있는 것도 사실입니다.
+
+하지만 보고 참여하고 사용해보면서 오픈소스라는 것이 생각보다 활성화되어 있고 많은 곳에서 사용한다는 것을 알게 되었습니다.
+
+항상 시장, 가격, 환율만 보고 계산만 하던 제가 생각이 좁았구나 우물 안 개구리라는 것을 깨달았습니다.
+
+이번 수업과 과제를 하며 다양한 경험과 다양한 학문에 대해 더 많은 관심을 갖어야 겠다는 생각을 하게 되었습니다.
