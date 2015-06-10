@@ -1,0 +1,13 @@
+버그
+
+See this unit, for example:
+
+https://translate.evernote.com/ja/kb_evernote/translate/articles/23260131.xml.po#unit=4723141
+
+The text area doesn't accommodate the translation in it entirety. Only the few first lines are visible. Looks like there are some locale-specific styles that are handled incorrectly by the texarea resizing plugin.
+
+This also applies to other languages like Korean and Chinese (and probably others).
+
+나라별 문자 특성 때문에 번역 후 텍스트 공간에서 글이 짤린다. 텍스트 공간 크기를 재 설정 해야 할 것 같다.
+
+적어도 한국어 중국어에서 발생.
