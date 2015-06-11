@@ -1,0 +1,7 @@
+The lightbox should allow users to tab through items but keep the scope of focusable items within the lightbox. 
+In other words, anything out of it shouldn't be tabbable.
+
+lightbox는 항목을 지정하면 사용자들을 허용해야 하지만 lightbox안에 있고 집중할수 있는 항목들의 범위를 유지한다.
+다른 말로 하면 이것의 어떤 입력도 기록이 불가능 하다.
+
+lightbox에 항목지정을 하면 유저의 접근을 허용해야하는데 그 접근이 않된다는 말인 것 같네여 
